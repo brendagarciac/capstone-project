@@ -13,6 +13,4 @@ The project will be carried out using an Android mobile user interface (mobile U
 Google Maps is an application that inspired us to make this project in the sense that it is a useful app to plan a trip. Google Maps not only provides instructions for various modes of transportation, but it also provides recommendations regardless of location. Additionally, anybody may add photographs and reviews of areas they've visited. We would be applying that similar idea, but it won’t be a navigation app, instead users will be able to log in to search for the best spots and photo ideas. Another app that inspired us is Instagram in the sense that our app will also be a photo sharing platform. Like Instagram, users will be able to share photographs but instead of with their followers, it will be with everyone that uses the app. Users may also look at, rate, and post on “DropPoint”. Below, references to mobile applications and documentation that are similar to our project proposed. 
 
 ![image](https://user-images.githubusercontent.com/56801901/209722651-eee27bf5-e50b-4772-8457-5945d5a3bcaf.png)
-
 ![image](https://user-images.githubusercontent.com/56801901/209722634-7023bf40-a789-4c95-97fc-0f8a4da45ab7.png)
-
